@@ -22,4 +22,4 @@ chmod +x build.sh eval.sh
 ## Acknowledgments
 
 Based on prior work by **phoboslab**, notably the
-[neuralink-compression](https://github.com/phoboslab/neuralink-compression) project, which achieved a **3.35× compression ratio**.
+[neuralink-compression](https://github.com/phoboslab/neuralink-brainwire) project, which achieved a **3.35× compression ratio**.
